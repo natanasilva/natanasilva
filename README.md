@@ -1,7 +1,7 @@
 # Olá, me chamo Nataniel de Aguiar ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-###### Sou um empreendedor digital. Fundador de varias plataformas digitais. Possuo graduação em Sistemas de Informação pelo Centro Universitário Católica de Quixadá (2017). Tem experiência na área de Ciência da Computação, com ênfase em sistemas web e mobile.
+###### Sou um empreendedor digital. Fundador de varias plataformas digitais. Possuo graduação em Sistemas de Informação pelo Centro Universitário Católica de Quixadá (2017). Tenho experiência na área de Ciência da Computação, com ênfase em sistemas web e mobile.
 <br>
 
 ## Ferramentas e tecnologias que trabalhei e estudo até hoje:
