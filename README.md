@@ -16,13 +16,18 @@
 <br>
 
 <div>
-## 🖥️ Atualmente mais focado em:
+
+ ## 🖥️ Atualmente mais focado em:
+ 
+ <br>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,sql,android)](https://natanet.xyz)
 
 </div>
-## Você também me encontra em:
 <div>
+  
+## Você também me encontra em:
+<br>
 <a href="https://facebook.com/natanasilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/natanasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/natan_asilva" target="_blank"><img src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
