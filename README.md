@@ -17,7 +17,9 @@
 
 <div>
 ## 🖥️ Atualmente mais focado em:
+  
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,sql,android)](https://natanet.xyz)
+
 </div>
 ## Você também me encontra em:
 <div>
