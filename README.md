@@ -1,4 +1,4 @@
-# Olá, me chamo Nataniel de Aguiar ! 
+# Natan de Aguiar aqui :) 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ###### Sou um profissional de Sistemas de Informação apaixonado por desafios tecnológicos, comprometido com a aprendizagem contínua e com um histórico comprovado de sucesso na aplicação de conhecimentos para o desenvolvimento de soluções eficazes e criativas.
@@ -10,9 +10,9 @@
 <br>
 
 ## Perfil acadêmico
-#### Especialização em andamento em Docência no ensino superior - Universidade Pitágoras Unopar Anhanguera.
-#### Especialização em andamento em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
-#### Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá.
+#### 🧑‍🎓Especialização em andamento em Docência no ensino superior - Universidade Pitágoras Unopar Anhanguera.
+#### 🧑‍🎓Especialização em andamento em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
+#### 🧑‍💻 Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá.
 <br>
 
 ## Ferramentas e tecnologias que trabalhei e estudo até hoje:
