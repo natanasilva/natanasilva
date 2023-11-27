@@ -9,7 +9,7 @@
 
 #### Especialização em andamento em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
 
-#### Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá, UNICATÓLICA, Brasil.
+#### Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá.
 <br>
 
 ## Ferramentas e tecnologias que trabalhei e estudo até hoje:
