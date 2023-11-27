@@ -3,15 +3,13 @@
 
 ###### Sou um profissional de Sistemas de Informação apaixonado por desafios tecnológicos, comprometido com a aprendizagem contínua e com um histórico comprovado de sucesso na aplicação de conhecimentos para o desenvolvimento de soluções eficazes e criativas.
 <br>
-<br>
 
 ## Perfil acadêmico
-#### Especialização em andamento em Desenvolvimento Web Full Stack. (Carga Horária: 360h). - Universidade Pitágoras Unopar Anhanguera, ANHANGUERA, Brasil.
-<br>
+#### Especialização em andamento em Docência no ensino superior - Universidade Pitágoras Unopar Anhanguera.
+
+#### Especialização em andamento em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
 
 #### Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá, UNICATÓLICA, Brasil.
-
-<br>
 <br>
 
 ## Ferramentas e tecnologias que trabalhei e estudo até hoje:
