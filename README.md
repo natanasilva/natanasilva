@@ -4,6 +4,10 @@
 ###### Sou um profissional de Sistemas de Informação apaixonado por desafios tecnológicos, comprometido com a aprendizagem contínua e com um histórico comprovado de sucesso na aplicação de conhecimentos para o desenvolvimento de soluções eficazes e criativas.
 <br>
 
+## Perfil Profissional
+#### Professor do Curso de Desenvolvimento de Sistemas da EEEP Salomão Alves de Moura
+#### Funcionário Público na Prefeitura de Capistrano/CE
+
 ## Perfil acadêmico
 #### Especialização em andamento em Docência no ensino superior - Universidade Pitágoras Unopar Anhanguera.
 
