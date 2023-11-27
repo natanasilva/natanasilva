@@ -21,7 +21,7 @@
  
  <br>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,java,sql,android)](https://natanet.xyz)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,wordpress,php,mysql,java,android,arduino)](https://www.natanet.xyz)
 
 </div>
 <div>
