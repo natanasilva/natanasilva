@@ -44,6 +44,6 @@
 </div>
  
 ## Meu Contador de Visitas:
-<br>
+
 ![Visitor Count](https://profile-counter.glitch.me/natanasilva/count.svg)
 
