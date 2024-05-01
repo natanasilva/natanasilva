@@ -11,7 +11,7 @@
 
 ## Perfil acadêmico
 #### Especialização em andamento em Docência no ensino superior - Universidade Pitágoras Unopar Anhanguera.
-#### Especialização em andamento em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
+#### Especialização em Desenvolvimento Web Full Stack - Universidade Pitágoras Unopar Anhanguera.
 #### Graduação em Sistemas de Informação - Centro Universitário Católica de Quixadá.
 <br>
 
