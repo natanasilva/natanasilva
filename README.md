@@ -1,7 +1,7 @@
 <!-- ===================== CABEÇALHO ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Natan%20de%20Aguiar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Professor%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Natan%20Aguiar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20%7C%20Professor%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
 <a href="https://github.com/natanasilva">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Apaixonado+por+desafios+tecnol%C3%B3gicos;Comprometido+com+a+aprendizagem+cont%C3%ADnua;Transformando+ideias+em+solu%C3%A7%C3%B5es+eficazes" alt="Typing SVG" />
